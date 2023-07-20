@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @c4rcorm
+- 👀 I am interested in ethical hacking
+- 🌱 I am currently learning programming
